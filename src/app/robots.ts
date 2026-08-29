@@ -17,6 +17,6 @@ export default function robots(): MetadataRoute.Robots {
         '/dashboard'
       ],
     },
-    sitemap: `${SITE_URL}/sitemap.xml`,
+    sitemap: `${SITE_URL}/sitemapv2.xml`,
   };
 }
